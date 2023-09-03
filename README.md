@@ -29,9 +29,9 @@ Open index.html in your browser
 
 👇 If you like the project, don't forget to star it!
 
-![Demo RentScooter](./Quiz/quiz.png)
+![Demo RentScooter](./AACodingArtists/AASite.png)
 # GIF Demo
-<img src="./Quiz/quiz.gif" width="400" height="900">
+<img src="./AACodingArtists/AASite.gif" width="400" height="900">
 
 # Video
-[Check out my YouTube video!](https://youtube.com/shorts/zlEqo5IteSk?feature=share)
+[Check out my YouTube video!](https://www.youtube.com/watch?v=A7WBrWJD2zA)
