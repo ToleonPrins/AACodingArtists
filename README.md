@@ -31,7 +31,7 @@ Open index.html in your browser
 
 ![Demo RentScooter](./AACodingArtists/AASite.png)
 # GIF Demo
-<img src="./AACodingArtists/AASite.gif" width="400" height="900">
+<img src="./AACodingArtists/AASite.gif" width="800" height="900">
 
 # Video
 [Check out my YouTube video!](https://www.youtube.com/watch?v=A7WBrWJD2zA)
