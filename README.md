@@ -8,9 +8,11 @@ Welcome to the AACodingArtists repository! This website serves as a portfolio fo
 
 🛠️ Technologies Used
 
-HTML5: For structuring the website
-CSS3: For styling and responsive design
-JavaScript: For interactive elements
+🟠 HTML5: For structuring the website
+🔵 CSS3: For styling and responsive design
+🟡 JavaScript: For interactive elements
+
+
 🎨 Design Features
 
 We have focused on a minimalist yet stylish design to enhance the user experience and make navigation through the site a breeze.
